@@ -9,7 +9,7 @@ const CONFIG = {
 };
 CONFIG.loopSize = CONFIG.itemCount * CONFIG.zGap;
 
-const TEXTS = ["IMPACT", "VELOCITY", "BRUTAL", "SYSTEM", "FUTURE", "DESIGN", "PIXEL", "HYPER", "NEON", "VOID"];
+const TEXTS = ["@_WEB___BUILDER_", "CYBER", "FULL SYSTEM", " TO SYSTEM", "FUTURE", "DESIGN", "PIXEL", "HYPER", " A TECH", "VOID"];
 
 // --- STATE ---
 const state = {
